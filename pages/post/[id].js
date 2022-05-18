@@ -8,7 +8,7 @@ import { AccountContext } from "../../context";
 
 /* import contract and owner addresses */
 import { contractAddress, ownerAddress } from "../../config";
-import WebThreeBlog from "../../artifacts/contracts/WebThreeBlog.sol/WebThreeBlog.json";
+import WebThreeBlog from "../../usefulArtifacts/WebThreeBlog.json";
 
 const ipfsURI = "https://ipfs.io/ipfs/";
 
