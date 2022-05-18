@@ -9,7 +9,7 @@ import { AccountContext } from "../context";
 import { contractAddress, ownerAddress } from "../config";
 
 /* import Application Binary Interface (ABI) */
-import WebThreeBlog from "../artifacts/contracts/WebThreeBlog.sol/WebThreeBlog.json";
+import WebThreeBlog from "../usefulArtifacts/WebThreeBlog.json";
 
 export default function Home(props) {
   /* posts are fetched server side and passed in as props */

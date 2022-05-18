@@ -8,7 +8,7 @@ import { create } from "ipfs-http-client";
 /* import contract address and contract owner address */
 import { contractAddress } from "../config";
 
-import WebThreeBlog from "../artifacts/contracts/WebThreeBlog.sol/WebThreeBlog.json";
+import WebThreeBlog from "../usefulArtifacts/WebThreeBlog.json";
 
 /* define the ipfs endpoint */
 const client = create("https://ipfs.infura.io:5001/api/v0");
