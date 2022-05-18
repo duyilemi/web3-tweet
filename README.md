@@ -1,6 +1,6 @@
 # A full stack web3 app
 
-A Full stack decentralized blockchain application with Next.js, Rinkeby, Solidity, The Graph, IPFS, and Hardhat
+A full stack decentralized blockchain application with Next.js, Rinkeby, Solidity, The Graph, IPFS, and Hardhat
 
 ### Overview of the user interface
 ![Screenshot (1292)](https://user-images.githubusercontent.com/67197664/169070165-2a663d34-cecf-4321-98de-6c5bbfe124ac.png)
